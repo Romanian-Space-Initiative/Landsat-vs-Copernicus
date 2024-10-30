@@ -29,6 +29,8 @@ To install these libraries, you can use:
 ```bash
 pip install -r requirements.txt
 ```
+
+The key for Landsat code is found at this(https://send.bitwarden.com/#jDcR4Kf5ikCeFrIZAPukxg/Gw-ZJk0rCpQsEasTxZ55Yg) link.
 We hope that you enjoy this workshop! For any questions, please contact the speaker at: simonel.david@rospin.org.
 
 **Property of AIM Space**

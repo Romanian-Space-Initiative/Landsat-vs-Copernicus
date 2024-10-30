@@ -4,8 +4,8 @@ import zipfile
 from shapely.geometry import box
 
 # Define credentials and client ID for accessing Copernicus Data Space
-USERNAME = "simoneldavid17@gmail.com"  # Replace with actual username
-PASSWORD = "simonelD700!"  # Replace with actual password
+USERNAME = "your_username"  # Replace with actual username
+PASSWORD = "your_password"  # Replace with actual password
 CLIENT_ID = "cdse-public"
 
 # Set up directory for downloaded Copernicus LST data files

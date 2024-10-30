@@ -9,7 +9,7 @@ import os
 
 # Initialize Google Earth Engine with the provided service account credentials
 service_account = 'copenricus-vs-landsat-workshop@ee-simoneldavid.iam.gserviceaccount.com'
-credentials = ee.ServiceAccountCredentials(service_account, 'ee-simoneldavid-5ce71ec4aecf.json')
+credentials = ee.ServiceAccountCredentials(service_account, 'workshop-key.json')
 ee.Initialize(credentials)
 
 # Extract city, time range, and address type from command-line inputs
