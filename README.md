@@ -21,6 +21,9 @@ You will need **Python 3** installed on your computer and the following librarie
 - `requests`
 - `shapely`
 - `xarray`
+- `setuptools`
+- `netcdf4`
+- `h5netcdf`
 
 To install these libraries, you can use:
 ```bash

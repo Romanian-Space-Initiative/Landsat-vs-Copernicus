@@ -6,3 +6,6 @@ numpy
 requests
 shapely
 xarray
+setuptools
+netcdf4
+h5netcdf
